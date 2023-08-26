@@ -17,5 +17,5 @@ CRYPTO_SECRET=AVIONAUTOTREN).
 8.	Insertar el comando "npm run dev" (se ejecutará el proyecto activando el servidor).
 
 
-•	Sitio Web mediante la plataforma de nube Vecel
+•	Sitio Web mediante la plataforma de nube Vercel
 https://arte-de-chicago-front.vercel.app/
