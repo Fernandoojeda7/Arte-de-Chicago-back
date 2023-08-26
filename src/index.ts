@@ -1,15 +1,16 @@
 import dotenv from "dotenv";
 import express from "express";
 import router from "./routes/index.routes";
-
+import cors from "cors";
 dotenv.config().parsed;
+
 const app = express();
 app.use(express.json());
 
 const PORT = 3001;
 
+app.use(cors());
 app.use("/api", router);
-
 app.get("/", (_req, res) => {
   res.send("Ya corre el server");
 });
