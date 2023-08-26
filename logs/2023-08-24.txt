@@ -1,0 +1,92 @@
+[10:00]: Exception: El email o dni ya existen
+    at UsersHandler.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:84:28)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:5:58)
+[10:40]: Exception: El nombre es requerido
+    at UsersHandler.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:57:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:4:12)
+    at UsersHandler.create (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:47:16)
+    at UserController.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\controllers\user.controller.ts:21:39)
+    at Generator.next (<anonymous>)
+    at C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\controllers\user.controller.ts:8:71
+    at new Promise (<anonymous>)
+[10:40]: Exception: El nombre es requerido
+    at UsersHandler.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:57:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:4:12)
+    at UsersHandler.create (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:47:16)
+    at UserController.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\controllers\user.controller.ts:21:39)
+    at Generator.next (<anonymous>)
+    at C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\controllers\user.controller.ts:8:71
+    at new Promise (<anonymous>)
+[10:41]: Exception: El nombre es requerido
+    at UsersHandler.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:57:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:4:12)
+    at UsersHandler.create (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:47:16)
+    at UserController.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\controllers\user.controller.ts:21:39)
+    at Generator.next (<anonymous>)
+    at C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\controllers\user.controller.ts:8:71
+    at new Promise (<anonymous>)
+[10:41]: Exception: El nombre es requerido
+    at UsersHandler.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:57:13)
+    at Generator.next (<anonymous>)
+    at C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:8:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:4:12)
+    at UsersHandler.create (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:47:16)
+    at UserController.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\controllers\user.controller.ts:21:39)
+    at Generator.next (<anonymous>)
+    at C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\controllers\user.controller.ts:8:71
+    at new Promise (<anonymous>)
+[21:28]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:30]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:31]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:32]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:33]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:34]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:37]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:38]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:38]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[21:38]: Exception: Contraseña incorrecta
+    at UsersHadlers.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:36:13)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\auth.handler.ts:5:58)
+[22:20]: Exception: El email o dni ya existen
+    at UsersHandler.<anonymous> (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:84:28)
+    at Generator.next (<anonymous>)
+    at fulfilled (C:\Users\FERNANDO OJEDA\Documents\Prueba España\App Fernando Ojeda\src\handlers\users.validator.ts:5:58)
