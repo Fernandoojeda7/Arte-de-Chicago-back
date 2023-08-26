@@ -9,7 +9,7 @@ Instalación y Ejecución, “Guía de Pasos”:
 1.	Crear una carpeta en tu ordenador (aquí es donde descargaras el proyecto).
 2.	Abrir la carpeta creada, paso anterior, con un editor de código (Visual Studio Code).
 3.	Abrir la terminal del editor.
-4.	Insertar el comando "git clone https://github.com/Fernandoojeda7/arte-chicago-brack"
+4.	Insertar el comando "git clone https://github.com/Fernandoojeda7/Arte-de-Chicago-back.git"
 5.	En la raiz del proyecto debes crear un archivo con la extensión .env en el cual cargaras tu variable de entorno (ejemplo: DATABASE_URL='postgres://postgres:root@localhost:5432/apparts').
 6.	Luego crearas dos variables mas para para tu usuario secreto y tu encriptacion (ejemplos: JWT_SECRET_USUARIO=secret
 CRYPTO_SECRET=AVIONAUTOTREN).
