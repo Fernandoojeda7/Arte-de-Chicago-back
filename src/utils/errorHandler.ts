@@ -1,13 +1,11 @@
 import { Response } from "express";
 import Exception from "./Exception";
-import { logsError } from "./registroError";
 
 export default function errorHandler(
   error: unknown,
   res: Response,
   logout: boolean = false
 ) {
-  logsError(error);
   console.log(error);
 
   if (error instanceof Exception) {
