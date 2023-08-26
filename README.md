@@ -10,8 +10,11 @@ Instalación y Ejecución, “Guía de Pasos”:
 2.	Abrir la carpeta creada, paso anterior, con un editor de código (Visual Studio Code).
 3.	Abrir la terminal del editor.
 4.	Insertar el comando "git clone https://github.com/Fernandoojeda7/arte-chicago-brack"
-5.	Insertar el comando "npm install" (instalaras todas las dependencias para que el proyecto funcione correctamente).
-6.	Insertar el comando "npm start" (se ejecutará el proyecto activando el servidor).
+5.	En la raiz del proyecto debes crear un archivo con la extensión .env en el cual cargaras tu variable de entorno (ejemplo: DATABASE_URL='postgres://postgres:root@localhost:5432/apparts').
+6.	Luego crearas dos variables mas para para tu usuario secreto y tu encriptacion (ejemplos: JWT_SECRET_USUARIO=secret
+CRYPTO_SECRET=AVIONAUTOTREN).
+7.	Insertar el la terminal de tu editor el comando "npm install" (instalaras todas las dependencias para que el proyecto funcione correctamente)
+8.	Insertar el comando "npm run dev" (se ejecutará el proyecto activando el servidor).
 
 
 •	Sitio Web mediante la plataforma de nube Vecel
